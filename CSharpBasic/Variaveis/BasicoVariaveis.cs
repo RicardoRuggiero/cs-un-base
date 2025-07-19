@@ -14,8 +14,8 @@ public class BasicoVariaveis : MonoBehaviour
     public string VariavelTexto = "ok";
     private string VariavelTexto2 = string.Empty;
 
-     public bool SeraLogico = false;
-     private bool SeraLogico2 = true;
+    public bool SeraLogico = false;
+    private bool SeraLogico2 = true;
 
     void Start()
     {
