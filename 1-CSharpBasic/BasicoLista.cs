@@ -43,8 +43,4 @@ public class BasicoLista : MonoBehaviour
         Debug.Log($" Escolas Agora São: {string.Join(", ", GrupoEscolas)}, disse, {NomePlayer4}");
         Debug.Log($" Insígnias: {string.Join(", ", NotaJogadores)}, falou, {NomePlayer3}");
     }
-    void Update()
-    {
-        
-    }
 }
