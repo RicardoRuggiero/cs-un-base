@@ -1,3 +1,6 @@
+
+// int, float, bool, string
+
 using UnityEngine;
 
 public class BasicoVariaveis : MonoBehaviour

@@ -1,6 +1,5 @@
-//   ----------------------######################## VERIFICAR ANALIZAR ######################### --------------------------
 
-// Nesse arquivo vamos aprender: declaração de métodos, chamadas, parâmetros, retorno de valor e sobrecarga básica.
+// Declaração de métodos, chamadas, parâmetros, retorno de valor e sobrecarga básica.
 
 using UnityEngine;
 

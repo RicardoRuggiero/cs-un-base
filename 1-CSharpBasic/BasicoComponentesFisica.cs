@@ -1,6 +1,5 @@
-// ----------------------######################## VERSÃO 2D CORRIGIDA ######################### --------------------------
 
-// Neste arquivo vamos aprender: uso de Rigidbody2D, Collider2D e interação com o sistema de física 2D da Unity.
+// Rigidbody2D, Collider2D e interação com o sistema de física 2D da Unity
 
 using UnityEngine;
 

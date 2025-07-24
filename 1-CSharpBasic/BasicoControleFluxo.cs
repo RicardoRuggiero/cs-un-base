@@ -1,3 +1,6 @@
+
+// 'if/Elseif/Else'; '?/:'; switch; for; while; do/while; try/catch
+
 using System;
 using UnityEngine;
 
@@ -67,7 +70,7 @@ public class BasicoControleFluxo : MonoBehaviour
             Debug.Log("Executa ao menos uma vez");
             i++;
         } while (i < 5);
-        //try
+        //try/catch
         try
         {
             int VidaTentativa = 10;
@@ -85,8 +88,4 @@ public class BasicoControleFluxo : MonoBehaviour
         Debug.Log("Código continua normalmente após o try/catch.");
     }
 
-    void Update()
-    {
-        
-    }
 }

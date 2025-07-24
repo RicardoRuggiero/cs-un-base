@@ -1,3 +1,6 @@
+
+// listas em c# na unity
+
 using NUnit.Framework.Internal;
 using System.Collections.Generic; //Para listas funcionar
 //using System.Diagnostics; //Gerou conflito

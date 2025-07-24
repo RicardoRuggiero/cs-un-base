@@ -1,4 +1,5 @@
-// Nesse arquivo vamos aprender: como capturar input do teclado e usar ações do jogador.
+
+// captura de input do teclado e uso de ações do jogador
 
 using UnityEngine;
 
